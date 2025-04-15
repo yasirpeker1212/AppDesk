@@ -1,7 +1,16 @@
 # Desktop-File-Creator
-A desktop file creator for .AppImage files to show up in wofi or rofi.
+A simple desktop file creator for .AppImage files so they can show up in wofi, rofi, and your application launcher of choice!
 
-# How To Use : 
-Run script using command "python AppImage.py"
+# 🚀 How to Use
+Run the script using :
+python AppImage.py or python3 AppImage.py
 
-#Q&A Time!
+# ❓Q&A
+# Q: Which distros are supported?
+A: All Linux distributions are supported — AppImage works universally across distros!
+
+# Q: I encountered a problem. Where can I get help?
+A: You can reach out to us at coralinuxteam@gmail.com or open an issue.
+
+# Q: What do I need to run this program?
+A: You just need Python and an .AppImage file!
