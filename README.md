@@ -1,4 +1,4 @@
-# Desktop-File-Creator
+# AppDesk
 A simple desktop file creator for .AppImage files so they can show up in wofi, rofi, and your application launcher of choice!
 
 # 🚀 How to Use
